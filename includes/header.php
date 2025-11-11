@@ -199,35 +199,14 @@
                     <i class="fas fa-list-alt"></i>
                 </a>
 
+            
+
                
-
-                <a href="<?php echo SITE_URL; ?>modules/reports/qna.php" class="nav-icon">
-                  <i class="fas fa-comments"></i>
-                </a>
-
-                <a href="<?php echo SITE_URL; ?>modules/reports/resource.php" class="nav-icon">
-                   <i class="fas fa-graduation-cap"></i>
-
-                </a>
-
-                <a href="<?php echo SITE_URL; ?>modules/reports/behavioral_feature.php" class="nav-icon">
-                   <i class="fas fa-face-meh"></i>
-
-
-                </a>
-
-                <a href="<?php echo SITE_URL; ?>modules/planner/daily_planner.php" class="nav-icon">
-                    <i class="fas fa-calendar-day"></i>
-                </a>
-
                 <a href="<?php echo SITE_URL; ?>modules/social/analysis.php" class="nav-icon">
                     <i class="fas fa-chart-line"></i>
                 </a>
 
-                <a href="<?php echo SITE_URL; ?>modules/planner/events.php" class="nav-icon">
-                    <i class="fas fa-calendar"></i>
-                </a>
-
+               
                 <!-- Dropdown Menu -->
                 <div class="dropdown">
                     <div class="nav-icon">
