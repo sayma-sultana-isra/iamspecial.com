@@ -46,8 +46,8 @@ It aims to improve **parent engagement, behavior monitoring, and learning develo
 
 project-root/
 │
-├─ assets/ # CSS, JS, images, icons
-├─ auth/ # User authentication (login, registration)
+├─ assets/ # CSS, JS, images, icons/n
+├─ auth/ # User authentication (login, registration)\n
 ├─ config/ # Database connection and common functions
 │ ├─ config.php
 │ └─ function.php
@@ -106,8 +106,7 @@ project-root/
 ```bash
 git clone https://github.com/sayma-sultana-isra/iamspecial.com.git
 cd iamspecial.com
-
-Database Setup
+2.Database Setup
 
 Open phpMyAdmin and create a new database.
 
@@ -138,6 +137,12 @@ Create a feature branch
 Submit a pull request
 
 Contact
+
+
+
+
+
+
 
 Developer: Sayma Sultana
 
